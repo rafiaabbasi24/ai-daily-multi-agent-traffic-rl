@@ -1,0 +1,7 @@
+# Dynamic Traffic Light Control with Multi-Agent RL
+# Core dependencies for reinforcement learning and environment simulation
+
+gymnasium==0.29.1          # OpenAI Gym API compatible environments
+torch==2.2.0               # PyTorch for deep learning models
+numpy==1.26.4              # Numerical computing library
+stable-baselines3==2.2.1   # State‑of‑the‑art RL algorithms (compatible with gymnasium)
